@@ -2,9 +2,11 @@
 
 [![Github Workflow](<https://github.com/trailheadapps/ebikes-lwc/workflows/Salesforce%20DX%20(scratch%20org)/badge.svg?branch=master>)](https://github.com/trailheadapps/ebikes-lwc/actions?query=workflow%3A%22Salesforce+DX+%28scratch+org%29%22) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/master/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
 
-![Component Summary](https://sfdx-badge.herokuapp.com/badge?owner=brpowell&repo=ebikes-lwc&ref=master&kill_cache=1)
+![component count](https://sfdx-badge.herokuapp.com/badge?owner=brpowell&repo=ebikes-lwc&ref=master&kill_cache=1)
 
-![ebikes-logo](ebikes-logo.png)
+<p align="center">
+    <img src="ebikes-logo.png" />
+</p>
 
 E-Bikes is a sample application that demonstrates how to build applications with Lightning Web Components and integrate with Salesforce Communities. E-Bikes is a fictitious electric bicycle manufacturer. The application helps E-Bikes manage their products and reseller orders using a rich user experience.
 
