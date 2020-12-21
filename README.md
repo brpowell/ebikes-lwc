@@ -2,7 +2,7 @@
 
 [![Github Workflow](<https://github.com/trailheadapps/ebikes-lwc/workflows/Salesforce%20DX%20(scratch%20org)/badge.svg?branch=master>)](https://github.com/trailheadapps/ebikes-lwc/actions?query=workflow%3A%22Salesforce+DX+%28scratch+org%29%22) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/master/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
 
-![Component Summary](https://sfdx-badge.herokuapp.com/badge?owner=brpowell&repo=ebikes-lwc&ref=master)
+![Component Summary](https://sfdx-badge.herokuapp.com/badge?owner=brpowell&repo=ebikes-lwc&ref=master&kill_cache=1)
 
 ![ebikes-logo](ebikes-logo.png)
 
