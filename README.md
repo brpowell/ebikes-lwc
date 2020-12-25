@@ -2,7 +2,8 @@
 
 [![Github Workflow](<https://github.com/trailheadapps/ebikes-lwc/workflows/Salesforce%20DX%20(scratch%20org)/badge.svg?branch=master>)](https://github.com/trailheadapps/ebikes-lwc/actions?query=workflow%3A%22Salesforce+DX+%28scratch+org%29%22) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/master/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
 
-![component count](https://sfdx-badge.herokuapp.com/badge?owner=brpowell&repo=ebikes-lwc&ref=master&kill_cache=1)
+![apex-recipes components](http://localhost:3000/badge?owner=trailheadapps&repo=apex-recipes&ref=master)
+
 
 <p align="center">
     <img src="ebikes-logo.png" />
